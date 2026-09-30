@@ -8,7 +8,6 @@ Este repositório não inclui o arquivo `.arff` (209 MB, acima do limite do GitH
 
 https://www.openml.org/search?type=data&search=cifar-10-small
 
-Coloque o arquivo baixado na mesma pasta do script, com o nome `cifar-10-small (1).arff` (ou ajuste o nome no início do script).
 
 ## Como rodar
 
